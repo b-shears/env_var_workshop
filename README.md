@@ -15,6 +15,9 @@ Environment Variables</strong> are variables stored across an entire project's e
 We will be using the [figaro gem](https://github.com/laserlemon/figaro) to manage our ENV vars in Mod 3.
 
 For this exercise:
+- Fork and clone this repo and complete the basic setup:
+  - `bundle install`
+  - `rails db:{create,migrate}`
 - Complete the installation instructions in the Figaro documentation (You do not need to read past the first configuration file example).
 - After Figaro is installed, add a key called 'example' to your application.yml file. The value can be any string.
 - Navigate to `localhost:3000/demo` 
