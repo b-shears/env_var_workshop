@@ -19,8 +19,11 @@ For this exercise:
   - `bundle install`
   - `rails db:{create,migrate}`
 - Complete the installation instructions in the Figaro documentation (You do not need to read past the first configuration file example).
-- After Figaro is installed, add a key called 'example' to your application.yml file. The value can be any string.
-- Navigate to `localhost:3000/demo` 
+- After Figaro is installed, take a look at your `.gitignore` file.
+  - Do you notice any changes?
+  - Why do you think we want to add something to `.gitignore` as part of this process?
+- Next, add a key called 'example' to your application.yml file. The value can be any string.
+- Navigate to `localhost:3000/demo`
   - If you've set everything up correctly, you should see the value of your ENV var displayed.
 
 ## What now?
