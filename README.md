@@ -18,7 +18,7 @@ For this exercise:
 - Fork and clone this repo and complete the basic setup:
   - `bundle install`
   - `rails db:{create,migrate}`
-- Complete the installation instructions in the Figaro documentation (You do not need to read past the first configuration file example).
+- Complete the installation instructions in the Figaro documentation (You do not need to read past the first configuration file example. No need to continue onto the example that references Pusher).
 - After Figaro is installed, take a look at your `.gitignore` file.
   - Do you notice any changes?
   - Why do you think we want to add something to `.gitignore` as part of this process?
